@@ -1,0 +1,73 @@
+{
+    "Questions":[
+    {
+        "question":'Who was the 2002 champion?',
+        "options": ["Argentina",'Brazil','Germany','Italy'],
+        "rightAnswer": 'Brazil',
+        "image":'<img src="images/brazilGermany.gif" id="image">',
+        "legend": '<div id="legend">Brazil Won the tournament, defeating Germany 2:0</div>'
+    },
+    {
+        "question":"Who scored Spain's winning goal in the 2010 final",
+        "options": ['David Villa','Fernando Torres','Sergio Ramos','Andres Iniesta'],
+        "rightAnswer": 'Andres Iniesta',
+        "image":'<img src="images/Iniesta.gif" id="image">',
+        "legend":'<div id="legend">Andres Iniesta scored the winning goal on minute 116 of over time </div>'
+    },
+    {
+        "question":'What team did Germany beat in the 2014 final?',
+        "options": ['Argentina','Colombia','France','Spain'],
+        "rightAnswer": 'Argentina',
+        "image":'<img src="images/gotzeGoal.gif" id="image">',
+        "legend":'<div id="legend">Germany defeated Messi\'s Argentina 1:0 with Mario Gotze\'s late goal</div>'
+    },
+    {
+        "question":'What team has been in every single World Cup?',
+        "options": ['Uruguay','England','Brazil','Germany'],
+        "rightAnswer": 'Brazil',
+        "image":'<img src="images/brazilDancing.gif" id="image">',
+        "legend":'<div id="legend">Brazil has participated in every one of the 20 World Cup finals.</div>'
+    },
+    {
+        "question":'What country hosted the 1990 FIFA World Cup?',
+        "options": ['Argentina','Brazil','Germany','Italy'],
+        "rightAnswer": 'Italy',
+        "image":'<img src="images/italia90.jpg" id="image">',
+        "legend":'<div id="legend">Italy was the host, Salvatore Schillaci was the top scorer of the tournament with 6 goals.</div>'
+    },
+    {
+        "question":'Where was the first World Cup held?',
+        "options": ['England','Uruguay','Germany','Italy'],
+        "rightAnswer": 'Uruguay',
+        "image":'<img src="images/uruguay1930.jpg" id="image">',
+        "legend":'<div id="legend">Uruguay was the host for the first World Cup. It was played in the year 1930.</div>'
+    },
+    {
+        "question":'What player was sent off for headbutting an oponent in the 2006 final?',
+        "options": ['Zinedine Zidane','Andrea Pirlo','Thierry Henry','Marco Materazzi'],
+        "rightAnswer": 'Zinedine Zidane',
+        "image":'<img src="images/zidaneHeadbutt.gif" id="image">',
+        "legend":'<div id="legend">Zinedine Zidane was sent off in his last-ever match, for headbutting Italy\'s Marco Materazzi\'s chest.</div>'
+    },
+    {
+        "question":'Who is the all time top scorer?',
+        "options": ['Lionel Messi','Ronaldo Nazario de Lima','Pele','Miroslav Klose'],
+        "rightAnswer": 'Miroslav Klose',
+        "image":'<img src="images/klose.gif" id="image">',
+        "legend":'<div id="legend">Germany\'s Miroslav Klose went on to score a record 16 goals across 4 consecutive tournaments between 2002 and 2014.</div>'
+    },
+    {
+        "question":'What teams played the final in Mexico 1986',
+        "options": ['Brazil and West Germany','Argentina and West Germany','Italy and Brazil','Argentina and Brazil'],
+        "rightAnswer": 'Argentina and West Germany',
+        "image":'<img src="images/argentina.jpg" id="image">',
+        "legend":'<div id="legend">Argentina beat West Germany on the 1986 final</div>'
+    },
+    {
+        "question":'Where will the 2018 World Cup be played?',
+        "options": ['Qatar','Germany','China','Russia'],
+        "rightAnswer": 'Russia',
+        "image":'<img src="images/russia2018.jpg" id="image">',
+        "legend":'<div id="legend">The 2018 World Cup in Russia will have a total of 13 sites, 16 stadiums, of which thirteen will be brand new and other three which will be completely refurbished. </div>'
+    }]
+}
